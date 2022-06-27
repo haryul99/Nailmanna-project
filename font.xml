@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <font android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/nailmannafont"/>
+
+<!--    @font-face {-->
+<!--    font-family: 'ACCchildrenheartOTF-Regular';-->
+<!--    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112-2@1.0/ACCchildrenheartOTF-Regular.woff') format('woff');-->
+<!--    font-weight: normal;-->
+<!--    font-style: normal;-->
+<!--    }-->
+</font-family>
